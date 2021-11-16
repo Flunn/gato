@@ -1,0 +1,34 @@
+nav{
+	background: #9b9b9b; 
+}
+body{
+	font-family: Francois One;	
+}
+.menu{
+	text-align: center;
+}
+.menu li{
+	display: inline-block;
+}
+.menu a{
+	padding: 30px
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+.menu a:hover{
+	background: #9b9b9b;
+	font-size: 20px;
+}
+.azul{
+	background: #b97a56;
+	text-align: center;
+	color: #ffffff;
+	overflow: hidden;
+}
+.imagen{
+	height: 800px;
+	background:url(./gato.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
